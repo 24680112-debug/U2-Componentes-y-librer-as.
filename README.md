@@ -234,7 +234,7 @@ Aunque no tenemos la estructura de carpetas visible en los snippets, el código 
 
 Esto facilitaría la reutilización de estos componentes en múltiples aplicaciones dentro de un proyecto más grande.
 
-Resumen de Relaciones Tema-Código:
+## Resumen de Relaciones Tema-Código:
 
 | Subtema | Código de Ejemplo Destacado | Concepto Clave Aplicado |
 | :--- | :---: | ---: |
